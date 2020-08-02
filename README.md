@@ -1,7 +1,7 @@
 # challenge-idev-01
 Desafio em dupla (pair programming)  comunidade IDev
 
-![](https://www.wikihow.com/Pair-Program#/Image:Pair-Program-Step-3-Version-2.jpg)
+![](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
 
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
