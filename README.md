@@ -1,7 +1,7 @@
 # challenge-idev-01
 Desafio em dupla (pair programming)  comunidade IDev
 
-![Pair programmaing](https://www.wikihow.com/Pair-Program#/Image:Pair-Program-Step-3-Version-2.jpg)
+![Pair programmaing] (https://www.wikihow.com/Pair-Program#/Image:Pair-Program-Step-3-Version-2.jpg)
 
 
 ## Installation
