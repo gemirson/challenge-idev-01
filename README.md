@@ -11,11 +11,21 @@ Desafio em dupla (pair programming)  comunidade IDev
 Use the git manager [git](https://git-scm.com/downloads) to clone repository.
 ```bash
 # apt-get install git
+```
+Create repository
 # mkdir challenge-idev-01
 # cd challenge-idev-01
+Use git to clone repository 
+```bash
 # git clone 'your repository
 # cd 'your name repository'
+```
+List all files 
+```bash
 # ls  (to list files)
+```
+Open the project in visual studio
+```bash
 # code . (to open visual studio code)
 ```
 
