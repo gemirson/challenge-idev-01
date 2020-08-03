@@ -5,7 +5,7 @@ Desafio em dupla (pair programming)  comunidade IDev
 Thassia e Gemirson
 
 # Page
-gemirson.github.io/challenge-idev-01/.
+[link]gemirson.github.io/challenge-idev-01/.
 
 # Description
 Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator,[1] reviews each line of code as it is typed in. The two programmers switch roles frequently.
